@@ -47,7 +47,7 @@ $businesses_json = json_encode($businesses);
     <link rel="stylesheet" href="../assets/css/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDWhWvIreFKsb8iKv4Tun5Zr5JLT8c4kB4&libraries=places"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=&libraries=places"></script>
     <style>
         #map {
             height: 600px;
